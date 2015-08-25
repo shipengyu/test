@@ -1,0 +1,5 @@
+25 八月 2015 16:42:00,281 INFO  ~ Starting E:\work\git\test\test\test
+25 八月 2015 16:42:00,906 WARN  ~ You're running Play! in DEV mode
+25 八月 2015 16:42:01,005 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+25 八月 2015 16:42:09,157 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+25 八月 2015 16:42:09,180 INFO  ~ Application 'testplay' is now started !
